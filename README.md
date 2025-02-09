@@ -11,9 +11,8 @@ A web application that predicts the sentiment (positive or negative) of IMDB mov
 4. [Installation](#installation)  
 5. [Usage](#usage)  
 6. [Screenshots](#screenshots)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Contact](#contact)  
+7. [License](#license)  
+8. [Contact](#contact)  
 
 ---
 
