@@ -56,8 +56,8 @@ Ensure you have **Python 3.8+** installed on your system.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/username/IMDB-Sentiment-Analysis.git
-   cd IMDB-Sentiment-Analysis
+   git clone https://github.com/username/Sentiment-Analysis.git
+   cd Sentiment-Analysis
    ```
 
 2. **Create and activate a virtual environment** (recommended)  
@@ -66,18 +66,13 @@ Ensure you have **Python 3.8+** installed on your system.
    source venv/bin/activate  # For Linux/Mac
    venv\Scripts\activate     # For Windows
    ```
-
-3. **Install dependencies**  
+   
+3. **Run the Streamlit app**  
    ```bash
-   pip install -r requirements.txt
+   streamlit run main.py
    ```
 
-4. **Run the Streamlit app**  
-   ```bash
-   streamlit run app.py
-   ```
-
-5. Open your browser and go to `http://localhost:8501/` to use the app.  
+4. Open your browser and go to `http://localhost:8501/` to use the app.  
 
 ---
 
